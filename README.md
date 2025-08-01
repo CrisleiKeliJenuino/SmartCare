@@ -36,6 +36,7 @@ Este projeto é voltado para:
 - Ambientes onde é necessário detectar presença, temperatura e proximidade
 
 ⚠️ Sobre o Código-Fonte
+
 O código-fonte deste projeto ainda não foi compartilhado publicamente, 
 pois o projeto está em fase de melhorias e também sendo avaliado como uma possível solução comercial.
 
