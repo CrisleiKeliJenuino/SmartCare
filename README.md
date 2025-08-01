@@ -35,7 +35,15 @@ Este projeto é voltado para:
 - Projetos acadêmicos de IoT com foco em saúde  
 - Ambientes onde é necessário detectar presença, temperatura e proximidade
 
----
+⚠️ Sobre o Código-Fonte
+O código-fonte deste projeto ainda não foi compartilhado publicamente, 
+pois o projeto está em fase de melhorias e também sendo avaliado como uma possível solução comercial.
+
+Estou utilizando os conhecimentos adquiridos no curso de Desenvolvimento de Software para aprimorar o sistema, 
+com foco em performance, usabilidade e segurança.
+
+No momento oportuno, posso compartilhar trechos ou demonstrar o funcionamento geral, 
+respeitando os limites estratégicos do projeto.
 
 📌 Repositório criado por **Crislei Keli**  
 🔗 [LinkedIn](https://www.linkedin.com/in/crislei-jenuino-b3407734a/) | [GitHub](https://github.com/crisleikeli)
