@@ -2,8 +2,9 @@
 
 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) do curso técnico em **Redes de Computadores** da **Etec Prof. Massuyuki Kawano**.
 
-O **SmartCare** é um sistema de monitoramento para cuidados com idosos, utilizando sensores para detectar temperatura corporal, 
-proximidade e movimento. Ideal para uso doméstico, com foco em bem-estar e prevenção.
+O **SmartCare** é um sistema de monitoramento para cuidados com idosos, utilizando sensores para detectar temperatura corporal sem contato, movimento e proximidade.  
+O sistema, baseado em **ESP32**, envia os dados em tempo real para um dashboard online no **Adafruit IO**, permitindo monitoramento remoto e eficiente. 
+Ideal para uso doméstico, com foco em bem-estar e prevenção.
 
 ## 🎥 Demonstração em vídeo
 
