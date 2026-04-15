@@ -12,7 +12,7 @@
 		</td>
 		<td valign="middle">
 			<strong>▶️ Assista à demonstração no YouTube</strong><br/>
-			➡️ Clique na imagem ao lado para abrir o vídeo do SmartCare.<br/><br/>
+			➡️ Abra o vídeo clicando na <strong>imagem ao lado</strong> ou no <strong>botão do YouTube</strong> logo abaixo.<br/><br/>
 			<a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
 				<img alt="YouTube" src="https://img.shields.io/badge/YouTube-Ver%20demonstra%C3%A7%C3%A3o-FF0000?logo=youtube&logoColor=white" />
 			</a>
