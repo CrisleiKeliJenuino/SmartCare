@@ -1,5 +1,7 @@
 # 🩺 SmartCare  
 
+![Linguagem principal: C++](https://img.shields.io/badge/Linguagem%20principal-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+
 ## 🎬 Demonstração do Projeto  
 <table>
 	<tr>
@@ -10,12 +12,13 @@
 		</td>
 		<td valign="middle">
 			<strong>▶️ Assista à demonstração no YouTube</strong><br/>
-			➡️ Clique na imagem ao lado para abrir o vídeo do SmartCare.
+			➡️ Clique na imagem ao lado para abrir o vídeo do SmartCare.<br/><br/>
+			<a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
+				<img alt="YouTube" src="https://img.shields.io/badge/YouTube-Ver%20demonstra%C3%A7%C3%A3o-FF0000?logo=youtube&logoColor=white" />
+			</a>
 		</td>
 	</tr>
 </table>
-
-Link direto: https://www.youtube.com/watch?v=6QugrVdtrRk
 
 ---
 
