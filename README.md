@@ -4,20 +4,20 @@
 
 ## 🎬 Demonstração do Projeto  
 <table>
-	<tr>
-		<td width="360" valign="top">
-			<a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
-				<img src="media/SmartCare_thumb.jpg" alt="Assista ao vídeo no YouTube" width="320" style="max-width: 100%; height: auto;" />
-			</a>
-		</td>
-		<td valign="middle">
-			<strong>▶️ Assista à demonstração no YouTube</strong><br/>
-			➡️ Abra o vídeo clicando na <strong>imagem ao lado</strong> ou no <strong>botão do YouTube</strong> logo abaixo.<br/><br/>
-			<a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
-				<img alt="YouTube" src="https://img.shields.io/badge/YouTube-Ver%20demonstra%C3%A7%C3%A3o-FF0000?logo=youtube&logoColor=white" />
-			</a>
-		</td>
-	</tr>
+  <tr>
+    <td width="360" valign="top">
+      <a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
+        <img src="media/SmartCare_thumb.jpg" alt="Assista ao vídeo no YouTube" width="320" style="max-width: 100%; height: auto;" />
+      </a>
+    </td>
+    <td valign="middle">
+      <strong>▶️ Assista à demonstração no YouTube</strong><br/>
+      ➡️ Abra o vídeo clicando na <strong>imagem ao lado</strong> ou no <strong>botão do YouTube</strong> logo abaixo.<br/><br/>
+      <a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Ver%20demonstra%C3%A7%C3%A3o-FF0000?logo=youtube&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
