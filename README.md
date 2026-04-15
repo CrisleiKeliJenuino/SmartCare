@@ -1,12 +1,14 @@
-# 🧠 SmartCare  
+# 🩺 SmartCare  
 
-## 🎥 Demonstração do Projeto  
-[![Assista ao vídeo no YouTube](media/SmartCare_thumb.jpg)](https://www.youtube.com/watch?v=6QugrVdtrRk)  
+## 🎬 Demonstração do Projeto  
+<a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
+	<img src="media/SmartCare_thumb.jpg" alt="Assista ao vídeo no YouTube" width="520" style="max-width: 100%; height: auto;" />
+</a>
 > Clique na imagem para assistir à demonstração do projeto SmartCare no YouTube.
 
 ---
 
-## 💡 Sobre o Projeto  
+## ℹ️ Sobre o Projeto  
 O **SmartCare** é um sistema inteligente de monitoramento voltado ao cuidado de idosos e pessoas em situação de vulnerabilidade.  
 
 Ele utiliza sensores conectados a um **ESP32**, capazes de medir temperatura corporal sem contato, detectar movimento, quedas e distância.  
@@ -14,7 +16,7 @@ Esses dados são enviados em tempo real para um painel web e aplicativo móvel, 
 
 ---
 
-## ⚙️ Tecnologias Utilizadas  
+## 🛠️ Tecnologias Utilizadas  
 | Categoria | Tecnologias |
 |------------|--------------|
 | 💻 **Linguagens** | C++ (Arduino/ESP32) |
@@ -26,7 +28,7 @@ Esses dados são enviados em tempo real para um painel web e aplicativo móvel, 
 
 ---
 
-## 🖼️ Interface e Protótipo  
+## 🖥️ Interface e Protótipo  
 > Imagens ilustrativas do funcionamento do projeto (hardware e software)
 
 - Dashboard personalizado  
@@ -41,7 +43,7 @@ Materiais incluídos neste repositório:
 
 ---
 
-## 🧱 Estrutura do Repositório  
+## 🗂️ Estrutura do Repositório  
 ```text
 SmartCare/
 ├── docs/                 # Documentação e materiais
@@ -56,7 +58,6 @@ SmartCare/
 ├── LICENSE
 └── README.md
 ```
-
 
 ---
 
@@ -76,11 +77,11 @@ O projeto **SmartCare** foi desenvolvido por mim, **Crislei Jenuino**, junto com
 
 ---
 
-## 🌱 Licença  
+## 📄 Licença  
 Este projeto está sob **direitos reservados (All rights reserved)**, conforme descrito em [LICENSE](LICENSE).  
 > Não é permitido copiar, modificar, distribuir ou utilizar sem permissão explícita por escrito da autora.
 
 ---
 
-## 💬 Agradecimentos  
+## 🙏 Agradecimentos  
 Agradecemos à **ETEC Prof. Massuyuki Kawano**, ao **Centro Paula Souza** e à equipe da **turma do TCC de Redes de Computadores R124** por todo apoio no desenvolvimento do projeto e na participação na **FETEPS**.
