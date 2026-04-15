@@ -17,8 +17,8 @@ Esses dados são enviados em tempo real para um painel web e aplicativo móvel, 
 ## ⚙️ Tecnologias Utilizadas  
 | Categoria | Tecnologias |
 |------------|--------------|
-| 💻 **Linguagens** | C++ (Arduino/ESP32), JavaScript, HTML, CSS |
-| 🧩 **Plataformas IoT** | Adafruit IO (versão inicial), Node.js (backend), React (frontend) *(protótipo)* |
+| 💻 **Linguagens** | C++ (Arduino/ESP32) |
+| 🧩 **Plataformas IoT** | Adafruit IO (versão inicial) |
 | 🔌 **Sensores** | MLX90614 (temperatura sem contato), MAX30102 (opcional), PIR HC-SR501 (movimento), HC-SR04 (distância) |
 | 🌐 **Comunicação** | Wi-Fi, MQTT |
 | 🖥️ **Display** | OLED SSD1306 |
@@ -71,7 +71,8 @@ SmartCare/
 O projeto **SmartCare** foi desenvolvido por mim, **Crislei Jenuino**, junto com a **turma do TCC do curso de Redes de Computadores da ETEC Prof. Massuyuki Kawano**.  
 
 📍 Curso de Redes de Computadores – ETEC Prof. Massuyuki Kawano  
-🌐 [LinkedIn](https://www.linkedin.com/in/crislei-jenuino-b3407734a/) • [Instagram](https://www.instagram.com/crisleikeli)
+🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)
+[![Instagram](https://img.shields.io/badge/Instagram-@crisleikeli-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/crisleikeli)
 
 ---
 
