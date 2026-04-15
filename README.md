@@ -1,10 +1,21 @@
 # 🩺 SmartCare  
 
 ## 🎬 Demonstração do Projeto  
-<a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
-	<img src="media/SmartCare_thumb.jpg" alt="Assista ao vídeo no YouTube" width="520" style="max-width: 100%; height: auto;" />
-</a>
-> Clique na imagem para assistir à demonstração do projeto SmartCare no YouTube.
+<table>
+	<tr>
+		<td width="360" valign="top">
+			<a href="https://www.youtube.com/watch?v=6QugrVdtrRk">
+				<img src="media/SmartCare_thumb.jpg" alt="Assista ao vídeo no YouTube" width="320" style="max-width: 100%; height: auto;" />
+			</a>
+		</td>
+		<td valign="middle">
+			<strong>▶️ Assista à demonstração no YouTube</strong><br/>
+			➡️ Clique na imagem ao lado para abrir o vídeo do SmartCare.
+		</td>
+	</tr>
+</table>
+
+Link direto: https://www.youtube.com/watch?v=6QugrVdtrRk
 
 ---
 
