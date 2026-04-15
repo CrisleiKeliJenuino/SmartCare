@@ -18,7 +18,7 @@ Esses dados são enviados em tempo real para um painel web e aplicativo móvel, 
 | Categoria | Tecnologias |
 |------------|--------------|
 | 💻 **Linguagens** | C++ (Arduino/ESP32), JavaScript, HTML, CSS |
-| 🧩 **Plataformas IoT** | Adafruit IO (versão inicial), Node.js (backend), React (frontend) |
+| 🧩 **Plataformas IoT** | Adafruit IO (versão inicial), Node.js (backend), React (frontend) *(protótipo)* |
 | 🔌 **Sensores** | MLX90614 (temperatura sem contato), MAX30102 (opcional), PIR HC-SR501 (movimento), HC-SR04 (distância) |
 | 🌐 **Comunicação** | Wi-Fi, MQTT |
 | 🖥️ **Display** | OLED SSD1306 |
@@ -34,21 +34,35 @@ Esses dados são enviados em tempo real para um painel web e aplicativo móvel, 
 - Indicadores de movimento, temperatura e quedas  
 - LED RGB para indicar risco (vermelho) ou normalidade (verde)  
 
+Materiais incluídos neste repositório:
+- [docs/Projeto_SmartCare.pdf](docs/Projeto_SmartCare.pdf) (documentação)
+- [docs/SmartCare Prototipagem.ppsx](docs/SmartCare%20Prototipagem.ppsx) (protótipo/apresentação)
+- [exemplo_codigo/demo.ino.ino](exemplo_codigo/demo.ino.ino) (trecho ilustrativo do firmware)
+
 ---
 
 ## 🧱 Estrutura do Repositório  
+```text
 SmartCare/
-│
-├── media/ # Imagens, vídeos e ícones do projeto
-├── docs/ # PDFs, relatórios e roteiros de apresentação
-├── exemplo_codigo/ # Trecho ilustrativo do código (opcional)
-└── README.md # Descrição geral do projeto
+├── docs/                 # Documentação e materiais
+│   ├── Projeto_SmartCare.pdf
+│   └── SmartCare Prototipagem.ppsx
+├── exemplo_codigo/        # Trecho ilustrativo do código
+│   └── demo.ino.ino
+├── media/                 # Imagens do projeto
+│   ├── SmartCare_thumb.jpg
+│   ├── feteps.jpg
+│   └── feteps 1.jpg
+├── LICENSE
+└── README.md
+```
 
 
 ---
 
 ## 🔒 Código-Fonte
-> O código completo do sistema está disponível em **repositório privado** para proteger a autoria do projeto.  
+> Este repositório público é uma vitrine com documentação/mídia e um **exemplo de código**.  
+> O código completo do sistema (firmware + painel web/app) está disponível em **repositório privado** para proteger a autoria do projeto.  
 > Caso você seja professor, avaliador ou recrutador e deseje acesso, entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/crislei-jenuino-b3407734a/).  
 
 ---
@@ -57,13 +71,13 @@ SmartCare/
 O projeto **SmartCare** foi desenvolvido por mim, **Crislei Jenuino**, junto com a **turma do TCC do curso de Redes de Computadores da ETEC Prof. Massuyuki Kawano**.  
 
 📍 Curso de Redes de Computadores – ETEC Prof. Massuyuki Kawano  
-🌐 [LinkedIn](https://www.linkedin.com/in/crislei-jenuino-b3407734a/) • [Instagram](https://www.instagram.com/crisleikeli) • [YouTube](https://www.youtube.com/@seu_canal)
+🌐 [LinkedIn](https://www.linkedin.com/in/crislei-jenuino-b3407734a/) • [Instagram](https://www.instagram.com/crisleikeli)
 
 ---
 
 ## 🌱 Licença  
-Este projeto está sob a licença Creative Commons BY-NC-SA.  
-> Você pode usar e compartilhar com atribuição, mas **não** pode usar comercialmente nem modificar sem permissão.
+Este projeto está sob **direitos reservados (All rights reserved)**, conforme descrito em [LICENSE](LICENSE).  
+> Não é permitido copiar, modificar, distribuir ou utilizar sem permissão explícita por escrito da autora.
 
 ---
 
